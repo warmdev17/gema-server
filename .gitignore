@@ -1,0 +1,18 @@
+.env
+
+# binaries
+/main
+*.exe
+*.out
+*.bin
+
+# build output
+/bin/
+/dist/
+/build/
+
+# secrets
+*.pem
+*.key
+secrets/
+
